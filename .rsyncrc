@@ -1,0 +1,18 @@
+# Meta
+- build.sh
+- stage.sh
+- .rsyncrc
+
+# Repo itself
+- .git
+- .gitignore
+
+# Distribution Packages
+- dist/
+
+# Other files
+- */.DS_Store
+- .editorconfig
+- .tm_properties
+- config.xml
+- test.*
