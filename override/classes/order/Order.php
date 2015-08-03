@@ -4,6 +4,6 @@ class Order extends OrderCore
 {
 	public static function generateReference()
 	{
-		return strtoupper(Tools::passwdGen(9, 'NUMERIC'));
+		return Tools::passwdGen(9, 'NUMERIC');
 	}
 }
