@@ -4,21 +4,21 @@ end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
 
-[ *.php ]
+[*.php]
 
 indent_style = space
 indent_size = 4
 
-[ *.tpl ]
+[*.tpl]
 indent_style = space
 indent_size = 4
 
-[ *.js ]
+[*.js]
 
 indent_style = space
 indent_size = 2
 
-[ *.css ]
+[*.css]
 
 indent_style = space
 indent_size = 2
