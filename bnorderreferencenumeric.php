@@ -4,13 +4,13 @@ if (!defined('_PS_VERSION_')) {
     exit;
 }
 
-class OrderReferenceNumeric extends Module
+class BNOrderReferenceNumeric extends Module
 {
     protected $config_form = false;
 
     public function __construct()
     {
-        $this->name = 'orderreferencenumeric';
+        $this->name = 'bnorderreferencenumeric';
         $this->tab = 'administration';
         $this->version = '1.0.1';
         $this->author = 'Brand New srl';
