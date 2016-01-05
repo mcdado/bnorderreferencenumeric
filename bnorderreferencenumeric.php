@@ -35,5 +35,4 @@ class BNOrderReferenceNumeric extends Module
     {
         return parent::uninstall();
     }
-
 }
