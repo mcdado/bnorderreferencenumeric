@@ -3,4 +3,4 @@
 Generate order references composed of nine random numbers instead of uppercase letters
 
 
-Made by Brand New srl (http://brandnew.sm)
+Made by [Brand New srl](http://brandnew.sm)
