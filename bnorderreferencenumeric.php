@@ -12,7 +12,7 @@ class BNOrderReferenceNumeric extends Module
     {
         $this->name = 'bnorderreferencenumeric';
         $this->tab = 'administration';
-        $this->version = '1.0.2';
+        $this->version = '1.0.3';
         $this->author = 'Brand New srl';
         $this->need_instance = 0;
 
